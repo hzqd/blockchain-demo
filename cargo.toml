@@ -1,0 +1,4 @@
+[workspace]
+members = [
+    "main", "core", "utils", "my_ext"
+]
